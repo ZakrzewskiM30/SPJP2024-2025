@@ -8,7 +8,7 @@
 - [Julia Aftyka](https://github.com/JAftyka/New)
 - [Sergiusz Lewandowski](https://github.com/slewandowski214/SPJP2024-2025)
 - [Bartłomiej Byszuk](https://github.com/byszukb/Studies)
-- [Natalia Lendzion](https://github.com/NataliaLen?tab=repositories)
+- [Natalia Lendzion](https://github.com/NataliaLen/natalial)
 - [Kajetan Laskowski](https://github.com/Venir42/Jzyki_programowania)
 - [aleksander Baran](https://github.com/Abaran20/srodowisko-programistyczne)
 - [Mariusz Kamiński](https://github.com/MKaminski664/Lab-UG)
